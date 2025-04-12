@@ -1,5 +1,4 @@
-# buscaminas_flutter3
-Buscaninas código 
+# buscaminas_flutter3 
 import 'package:flutter/material.dart';
 import 'dart:math';
 
